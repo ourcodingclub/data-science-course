@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Science for Ecologists and Environmental Scientists
 Course materials
 
@@ -18,6 +17,3 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 =======
-# apparate
-test to move repo
->>>>>>> 9a6f29840e2292f60f87377be7b540663fe342ee
