@@ -119,3 +119,5 @@ barplot(biodata$richness, names.arg=c("Beetle",
 dev.off()
 
 # In this tutorial we found out how many species from a range of taxa have been recorded in Edinburgh.
+
+# Sandra added lines as a test
